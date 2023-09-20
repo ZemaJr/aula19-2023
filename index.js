@@ -1,4 +1,11 @@
 
 let status = true;
 
-console.log("mostrando o status:" , status)
+
+
+
+
+
+
+//teste do rick
+const name = "Henrique"
